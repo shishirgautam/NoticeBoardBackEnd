@@ -17,8 +17,6 @@ function(){
 	console.log(err)
 })
 
-// var a = {name:'asd'};
-// var b = {roll:123}
 
 module.exports = {
 	Sequelize, sequelize
